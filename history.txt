@@ -1,0 +1,12 @@
+    1  git branch cmd-history
+    2  git status
+    3  git li
+    4  git branch
+    5  git branch -b cmd-history
+    6  git branch -name cmd-history
+    7  git branch -m cmd-history
+    8  git status
+    9  git show-branch
+   10  grep history > history.txt
+   11  history
+   12  history > history.txt
