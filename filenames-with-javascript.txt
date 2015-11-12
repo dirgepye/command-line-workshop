@@ -1,0 +1,8 @@
+/home/ubuntu/workspace/decodemtl/.git/index
+/home/ubuntu/workspace/decodemtl/src/on-demand/index.html
+/home/ubuntu/workspace/decodemtl/src/_data/fulltime_learn_fr.json
+/home/ubuntu/workspace/decodemtl/src/_data/fulltime_learn.json
+/home/ubuntu/workspace/decodemtl/src/application-exercise/index.html
+/home/ubuntu/workspace/decodemtl/src/_layouts/default_fr.html
+/home/ubuntu/workspace/decodemtl/src/_layouts/default.html
+/home/ubuntu/workspace/decodemtl/README.md
