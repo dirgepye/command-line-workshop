@@ -1,0 +1,11 @@
+Binary file /home/ubuntu/workspace/decodemtl/.git/index matches
+/home/ubuntu/workspace/decodemtl/src/on-demand/index.html:<section class="javascript-frontend">
+/home/ubuntu/workspace/decodemtl/src/on-demand/index.html:        <h3><a target="_blank" href="http://www.codecademy.com/tracks/javascript">Codecademy's JavaScript track</a></h3>
+/home/ubuntu/workspace/decodemtl/src/on-demand/index.html:          <a target="_blank" href="http://javascriptissexy.com/understand-javascript-callback-functions-and-use-them/">Understanding
+/home/ubuntu/workspace/decodemtl/src/on-demand/index.html:          <a target="_blank" href="https://functionwhatwhat.com/introduction-to-promises-in-javascript/">Introduction to Promises in
+/home/ubuntu/workspace/decodemtl/src/_data/fulltime_learn_fr.json:      "icon": "/assets/images/full-time/javascript.png",
+/home/ubuntu/workspace/decodemtl/src/_data/fulltime_learn.json:      "icon": "/assets/images/full-time/javascript.png",
+/home/ubuntu/workspace/decodemtl/src/application-exercise/index.html:      <a href="https://www.codecademy.com/tracks/javascript">Complete CodeCademy's JavaScript track</a>. This will
+/home/ubuntu/workspace/decodemtl/src/_layouts/default_fr.html:        <a href="javascript:void(0)" class="main-nav__link">Cours</a>
+/home/ubuntu/workspace/decodemtl/src/_layouts/default.html:        <a href="javascript:void(0)" class="main-nav__link">Courses</a>
+/home/ubuntu/workspace/decodemtl/README.md:* javascript/jquery
